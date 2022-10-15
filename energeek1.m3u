@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="http:///imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", https://paypal.me/EnerGeek
+http://regioplay.xyz/sr_regioooooo.php
+#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @EnerGeekTeam
+http://regioplay.xyz/sr_regioooooo.php
+
+#EXTINF:-1  tvg-logo="https://energeek.cl/uploads/logos/Rosa.png" group-title="C1" tvg-id="C1", EnerGeek
+https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
+#EXTINF:-1  tvg-logo="https://energeek.cl/uploads/logos/EGFanpop.png" group-title="C2" tvg-id="C2", EnerGeek Fanpop
+https://stream.wifispeed.cl:3247/live/energeek2live.m3u8
+#EXTINF:-1  tvg-logo="https://energeek.cl/uploads/logos/EGWowly.png" group-title="C3" tvg-id="C3", EnerGeek Wowly
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
+#EXTINF:-1  tvg-logo="https://energeek.cl/uploads/logos/EG4.png" group-title="C4" tvg-id="C4", EnerGeek 4
+https://live.tubyte.xyz/LiveApp/streams/531839509402196773557900.m3u8
+#EXTINF:-1  tvg-logo="https://energeek.cl/uploads/logos/Radio.jpeg" group-title="C5" tvg-id="C5", EnerGeek Radio
+hhttps://live.tubyte.xyz/LiveApp/streams/839593913716085646044793.m3u8
