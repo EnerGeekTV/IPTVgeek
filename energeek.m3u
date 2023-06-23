@@ -1,16 +1,14 @@
-#EXTM3U
+#EXTM3U  x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiacanales.xml.gz"
 
-#EXTINF:-1  tvg-logo="https://energeek.cl/uploads/logos/Rosa.png" group-title="C1" tvg-id="C1", EnerGeek Retro
+#EXTINF:-1  tvg-logo="https://cdn.energeek.cl/logos/Retro-2023.png" group-title="EnerGeek" tvg-id="EnerGeekRetro.cl", EnerGeek Retro
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
-#EXTINF:-1  tvg-logo="https://energeek.cl/uploads/logos/Rosa.png" group-title="C1" tvg-id="C1", EnerGeek - Respaldo
+#EXTINF:-1  tvg-logo="https://cdn.energeek.cl/logos/Retro-2023.png" group-title="EnerGeek" tvg-id="EnerGeekRetro.cl", Retro - Respaldo
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://energeek.cl/uploads/logos/EGFanpop.png" group-title="C2" tvg-id="C2", EnerGeek Fanpop
+#EXTINF:-1  tvg-logo="https://cdn.energeek.cl/logos/Fanpop-2023.png" group-title="EnerGeek" tvg-id="EnerGeekFanpop.cl", EnerGeek Fanpop
 https://stream.wifispeed.cl:3247/live/energeek2live.m3u8
-#EXTINF:-1  tvg-logo="https://energeek.cl/uploads/logos/EGFanpop.png" group-title="C2" tvg-id="C2", Fanpop - Respaldo
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://energeek.cl/uploads/logos/EGWowly.png" group-title="C3" tvg-id="C3", EnerGeek Animate
-https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
-#EXTINF:-1  tvg-logo="https://energeek.cl/uploads/logos/EGAnimate.png" group-title="C3" tvg-id="C3", Animate - Respaldo
-https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://energeek.cl/uploads/logos/Radio.jpeg" group-title="Radio" tvg-id="Radio", EnerGeek Radio
-https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.energeek.cl/logos/Fanpop-2023.png" group-title="EnerGeek" tvg-id="EnerGeekFanpop.cl", Fanpop - Respaldo
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.energeek.cl/logos/Radio-2023.png" group-title="EnerGeek" tvg-id="EnerGeekRadio.cl", EnerGeek Radio
+https://audio2.tustreaming.cl:8150/stream?type=mp3
+#EXTINF:-1  tvg-logo="https://cdn.energeek.cl/logos/Radio-2023.png" group-title="EnerGeek" tvg-id="EnerGeekRadio.cl", EnerGeek Radio (TV)
+https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
