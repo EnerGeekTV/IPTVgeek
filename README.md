@@ -1,12 +1,14 @@
 # IPTVgeek
 
-Welcome to IPTVgeek. These are m3u playlists from our platforms, [EnerGeek](https://energeek.cl/en-vivo), [NeoTV.cl](https://neotv.cl) and [Radios by NeoTV.cl](https://radios.neotv.cl).
+Welcome to IPTVgeek. These are the M3U playlists that feed our platforms, [EnerGeek](https://energeek.cl/en-vivo), [NeoTV.cl](https://neotv.cl) and [Radios by NeoTV.cl](https://radios.neotv.cl).
 
 From here you can use them on your preferred apps and watch our channels. You can also watch some of our affiliate channels, like:
 
 - Dreiko TV
 - Spectrum Channel
 - Latino Kids TV
+- CCP Radio
+- and more!
 
 # M3U Links for use.
 
