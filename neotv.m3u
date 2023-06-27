@@ -4,22 +4,24 @@
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.energeek.cl/logos/Fanpop-2023.png" group-title="EnerGeek" tvg-id="C2", EnerGeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://cdn.energeek.cl/logos/Radio-2023.png" group-title="EnerGeek" tvg-id="Radio", EnerGeek Radio TV
-https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/WzKFh03.png" group-title="Amigos" tvg-id="CA", CCP Radio
 https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.energeek.cl/logos/Radio-2023.png" group-title="EnerGeek" tvg-id="Radio", EnerGeek Radio TV
+https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.energeek.cl/imgs/canales/dreikotv-2.png" group-title="Amigos" tvg-id="CA", Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="Amigos" tvg-id="CA", AnimeStation TV
 https://stream.ichibantv.com:3741/live/aniplustvlive.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.energeek.cl/imgs/canales/latinokids.png" group-title="Amigos" tvg-id="CA", Latino Kids TV
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/s71A8ya.jpg" group-title="Amigos" tvg-id="CA", VariedTV 
+https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8 
 #EXTINF:-1  tvg-logo="https://neotv.cl/img/MaximaTV.png" group-title="Amigos" tvg-id="CA", MaximaTV - 1
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/img/MaximaTV.png" group-title="Amigos" tvg-id="CA", MaximaTV - 2
 https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.energeek.cl/imgs/canales/ACSNetwork.png" group-title="Amigos" tvg-id="CA", ACS Network TV
-https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/02c63dfaaf621ab897fbddd3e4666a33.png" group-title="Amigos" tvg-id="CA", Rewind TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.paste.pics/ac458f828b6eb862c9842d8a114db060.png" group-title="Amigos" tvg-id="CA", Spectrum Channel
@@ -29,7 +31,7 @@ https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.paste.pics/ac5034d49e28ab82a3372ff08c6b9573.png" group-title="Amigos" tvg-id="CA", Lim TV
 https://live.limplay.ml/limtv.m3u8
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/f8d6210140cd36470e98933c33c1a25e.png" group-title="Amigos" tvg-id="CA", Toonizaki
-https://xhateaec.com:8800/hls/toonizaki/toonizaki/7236bd12eac9c4b671d60a938c406eae/index.m3u8
+https://xhateaec.com:8800/hls/toonizaki/toonizaki/0808a4a796ac5a10be48b2b1887f5b22/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/qhLnq2W.png" group-title="Amigos" tvg-id="CA", VoiceOver Radio CR
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Wct9jsp.png" group-title="Amigos" tvg-id="CA", Moni TV
@@ -68,8 +70,6 @@ https://v4.tustreaming.cl/retroplaytv/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.caracolatv.cl/wp-content/uploads/2021/12/logo-296x300.jpg" group-title="Amigos" tvg-id="CA", Caracola TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png" group-title="Amigos" tvg-id="CA", Solo Stand Up
-https://paneltv.online:1936/8116/8116/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/dHpRNM5.png" group-title="Amigos" tvg-id="CA", UCV Televisión
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/KjPjyJH.png" group-title="Amigos" tvg-id="CA", UCV Eventos
@@ -88,8 +88,6 @@ https://unlimited1-cl-isp.dps.live/radioztv/radioztv.smil/playlist.m3u8
 https://marine2.miplay.cl/ntv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/ZN3ry2f.png" group-title="Amigos" tvg-id="CA", PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/s71A8ya.jpg" group-title="Amigos" tvg-id="CA", VariedTV 
-https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8 
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="Amigos" tvg-id="CA", RetroPlus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/MzuTLkz.png" group-title="Amigos" tvg-id="CA", Canal6
