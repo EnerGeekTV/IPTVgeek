@@ -15,5 +15,5 @@ From here you can use them on your preferred apps and watch our channels. You ca
 | List | Download Link | Status |
 |----------|----------|--------|
 | EnerGeek    |[![Download Button](https://img.shields.io/github/v/release/EnerGeekTeam/RosadinTV?color=00A8E8&label=EnerGeek&logo=windows&style=for-the-badge)](https://raw.githubusercontent.com/EnerGeekTV/IPTVgeek/main/energeek.m3u)| ✅ Stable | 
-| NeoTV   |[![Download Button](https://img.shields.io/github/v/release/EnerGeekTeam/RosadinTV?color=00719c&label=NeoTV&logo=windows&style=for-the-badge)](https://raw.githubusercontent.com/EnerGeekTV/IPTVgeek/main/neotv.m3u)| ✅ Stable | 
-| Radios by NeoTV   |[![Download Button](https://img.shields.io/github/v/release/EnerGeekTeam/RosadinTV?color=00719c&label=RadiosNeoTV&logo=windows&style=for-the-badge)](https://raw.githubusercontent.com/EnerGeekTV/IPTVgeek/main/radios.m3u)| ✅ Stable | 
+| NeoTV   |[![Download Button](https://img.shields.io/github/v/release/EnerGeekTeam/RosadinTV?color=00719c&label=NeoTV.cl&logo=windows&style=for-the-badge)](https://raw.githubusercontent.com/EnerGeekTV/IPTVgeek/main/neotv.m3u)| ✅ Stable | 
+| Radios by NeoTV   |[![Download Button](https://img.shields.io/github/v/release/EnerGeekTeam/RosadinTV?color=00719c&label=Radios-NeoTV.cl&logo=windows&style=for-the-badge)](https://raw.githubusercontent.com/EnerGeekTV/IPTVgeek/main/radios.m3u)| ✅ Stable | 
